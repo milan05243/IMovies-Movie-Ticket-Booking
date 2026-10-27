@@ -482,7 +482,7 @@ If a real payment gateway is added in the future, it must be configured and test
 
 | Problem | Possible Solution |
 |---|---|
-| 'npm' is not recognized | Install Node.js and reopen the terminal. |
+| `npm` is not recognized | Install Node.js and reopen the terminal. |
 | Dependencies fail to install | Check the Node.js version and the package's dependency requirements. |
 | MongoDB connection fails | Verify that MongoDB is running and check `MONGO_URI`. |
 | Backend does not start | Review the backend terminal output and verify its scripts and environment variables. |
